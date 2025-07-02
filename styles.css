@@ -1,0 +1,90 @@
+.feed-header{
+    display: flex;
+    margin-bottom: 125px;
+    background-color: white;
+}
+.feed-header img{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    margin-left: 50px;
+}
+.feed-header h1{
+    margin-right: 390px;
+    margin-left: 600px;
+}
+.feed-first-photo{
+    display: grid;
+    place-content: center;
+    margin-bottom: 125px;
+}
+.AnuelAA{
+    width: 600px;
+}
+.first-photo-header h2{
+    display: grid;
+    place-content: center;
+    background-color: white;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(238, 231, 231);
+    font-family: "Libertinus Mono", monospace;
+}
+.first-photo-footer{
+    background-color: white;
+}
+.feed-second-photo{
+    display: grid;
+    place-content: center;
+    margin-bottom: 125px;
+}
+.second-photo-header{
+    background-color: white;
+    display: grid;
+    place-content: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.second-photo-footer{
+    background-color: white;
+}
+.Almighty{
+    width: 600px;
+}
+.feed-third-photo{
+    display: grid;
+    place-content: center;
+    margin: 125px;
+}
+.third-photo-header{
+    display: grid;
+    place-content: center;
+    background-color: white;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.feed-third-photo img{
+    width: 800px;
+}
+.third-photo-footer{
+    background-color: white;
+}
+.feed-fourth-photo{
+    display: grid;
+    place-content: center;
+    margin: 125px;
+}
+.fourth-photo-header{
+    display: grid;
+    place-content: center;
+    background-color: white;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.feed-fourth-photo img{
+    width: 600px;
+}
+.fourth-photo-footer{
+    background-color: white;
+}
